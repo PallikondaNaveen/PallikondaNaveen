@@ -3,7 +3,7 @@
 🚀 Passionate **.NET Full Stack Developer** with expertise in building scalable web applications using **C#, ASP.NET Core, MVC, Entity Framework Core, React, SQL Server**. I love solving complex problems, writing clean and efficient code, and continuously learning new technologies.
 
 ## 🔥 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, Angular, React, Bootstrap  
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap  
 - **Backend**: C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core
 - **Database**: SQL Server  
 - **Cloud & DevOps**: Docker, CI/CD  
